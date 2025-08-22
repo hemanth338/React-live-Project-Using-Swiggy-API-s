@@ -1,0 +1,36 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is the React live Course",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hemanth338/namaste-react-live.git"
+  },
+  "author": "Hemanth React",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemanth338/namaste-react-live/issues"
+  },
+  "homepage": "https://github.com/hemanth338/namaste-react-live#readme",
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.15.4",
+    "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "Firefox ESR",
+    "not dead"
+  ]
+}
