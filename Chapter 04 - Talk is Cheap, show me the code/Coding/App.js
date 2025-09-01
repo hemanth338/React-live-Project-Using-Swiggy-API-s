@@ -23,7 +23,7 @@ const Header = () => {
     <div className="header">
       <div className="logo-container">
         <img
-          src="https://sdmntprwestus3.oaiusercontent.com/files/00000000-205c-61fd-a898-921d93df9567/raw?se=2025-08-22T11%3A18%3A55Z&sp=r&sv=2024-08-04&sr=b&scid=a485222c-7f28-50b6-a7a6-cab1f77fc258&skoid=60f2aa1f-3685-43ee-be37-d8c8d08d5a64&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-21T22%3A00%3A13Z&ske=2025-08-22T22%3A00%3A13Z&sks=b&skv=2024-08-04&sig=FXsaQIuck0qckkc512z5kPh30CQ9R0XpPHcE2mZ/OT0%3D"
+          src="https://res.cloudinary.com/dkpst40y3/image/upload/v1756722141/ChatGPT_Image_Aug_22_2025_12_35_39_PM_mavje3.png"
           alt="App Logo"
           className="logo"
         />
@@ -517,3 +517,4 @@ const AppLayout = () => {
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<AppLayout />);
+
