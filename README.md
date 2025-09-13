@@ -40,6 +40,10 @@ Namaste-React/
 ├── Chapter 07 - Finding the Path/
 ├── Chapter 08 - Let's get Classy/
 ├── Chapter 09 - Optimizing our App/
+├── Chapter 10 - Jo dikhta hai, vo bikta hai
+├── Chapter 11 - Data is the new oil
+├── Chapter 12 - Let's Build Our Store
+├── Chapter 13 - Time for the Test
 ├── public/
 │   ├── images/
 ├── index.html
